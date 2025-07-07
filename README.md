@@ -6,15 +6,14 @@ Este repositório é dedicado ao aprendizado e à prática da linguagem **Bash**
 
 ## Conteúdo
 
-* **`exemplos/`**: Pequenos scripts e snippets para ilustrar conceitos específicos do Bash.
-* **`projetos/`**: Projetos maiores e mais complexos construídos com Bash.
-* **`recursos/`**: Links úteis, guias e documentação para aprofundar seus estudos.
+* **<assunto>.sh**: Pequenos scripts e snippets para ilustrar conceitos específicos do Bash.
 
 ---
 
 ## Como Usar
 
 Sinta-se à vontade para **clonar** este repositório e explorar os arquivos.
+Conforme o tempo, vou adicionar novos conteúdos aqui!
 
 ```bash
 git clone [https://github.com/SeuUsuario/SeuRepositorio.git](https://github.com/SeuUsuario/SeuRepositorio.git)
